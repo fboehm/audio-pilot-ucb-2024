@@ -1,0 +1,24 @@
+---
+title: "Character Beat Sheet"
+author: Fred Boehm
+date: today
+date-format: full
+format: pdf
+---
+
+1. CHARACTER -- James (40s) is a naive, ambitious, do-gooding new professor and aspiring podcaster who has just relocated to South Dakota to teach at the local university. "Together stronger" James encounters a department culture that doesn't appreciate his idealism.  
+
+2. WANT -- James starts a data science podcast to share his knowledge and help others. He learns of a popular, rival data science podcast and wants to befriend the hosts.  
+
+3. GO -- James's podcast (and James himself) is ridiculed by the hosts of the rival podcast. 
+
+4. SEARCH -- Jeff uses his "Together stronger" superpowers to challenge the hosts to a live podcast duel.
+
+5. FIND -- James gets a costly, marginal victory in the podcast duel. 
+
+
+6. TAKE/PAY -- His conduct in the duel sacrificed his core belief that "together stronger" is the best way to achieve success.
+
+7. RETURN -- James records another episode of his podcast and reflects on his costly victory in the duel.
+
+8. CHANGE -- Linda facilitates a reconciliation between James and the hosts of the rival podcast. James resolves to continue his podcast and to double down on his core belief that "together stronger" is the best way to achieve success.

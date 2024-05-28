@@ -1,4 +1,9 @@
+private
+
+
+
 # History files
+
 .Rhistory
 .Rapp.history
 

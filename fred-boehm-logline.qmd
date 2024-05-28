@@ -1,0 +1,46 @@
+---
+format: pdf
+author: Fred Boehm
+date: today
+date-format: full
+title: Logline
+---
+
+TITLE: Prairie Sounds
+
+LOGLINE:  When a new professor starts a new data science podcast in a small university town in South Dakota, he must survive a cut-throat competition with a rival podcast and high school clique-like department culture in order to keep his job and get his NIH research grant. 
+
+
+
+TONE: a workplace dramedy. The Office meets Mean Girls. 
+
+COMPS: The Office, Parks and Rec, Mean Girls 
+
+
+MAIN / SUPPORTING CHARACTERS:
+
+James: 40-something professor of data science. Just wants to get along with colleagues and get his research funding.
+
+Jonathan: 30-something professor of mathematics. Wants to be the best and will do anything to get there. 
+
+Tushar: 30-something professor of computer science. Accomplice to Jonathan.
+
+Linda: 20-something statistics graduate student. Befriends James and tries to help him navigate the department culture, with limited success.
+
+
+
+
+
+THE WORLD: Much like our current world, but set in a small, close-knit, outsider-fearing university in South Dakota. 
+
+EVENTS: 
+
+- James starts a podcast to help his students and get his research grant.  
+- A rival podcast - "Data science cheats in South Dakota" already exists - the showrunners are unknown and secretive about their identities.  
+- James encounters the department culture - a high school clique-like environment, straight out of Mean Girls - that was hidden from him during his job interview.  
+- Bullying and social sabotage of James reminds him of his high school days.  
+
+WHY AUDIO?: The medium is perfect for this dynamic series because of the grounded main characters and
+dynamically scripted (and, hopefully, funny!) episodes.
+
+
