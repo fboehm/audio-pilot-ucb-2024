@@ -11,17 +11,28 @@ format:
 
 ## \uline{COLD OPEN}
 
-\textbf{MAKESHIFT PODCAST STUDIO IN JAMES'S LIVING ROOM} - 
+\textbf{MAKESHIFT PODCAST STUDIO IN JAMES'S LIVING ROOM (RURAL SOUTH DAKOTA)} - JAMES is in the middle of a podcast recording with his friend from graduate school, DUY. DUY, a fellow statistician, is participating via zoom from his home in Dallas, Texas. After motivating and explaining statistics approaches for comparing two means, DUY asks JAMES about his first week as an assistant professor after relocating to South Dakota. 
+JAMES discloses that he is struggling to connect with his colleagues in the department and feels isolated in the small town community. 
+
 
 
 ## \uline{ACT ONE}
+
+STATISTICS DEPARTMENT OFFICES - James, dressed in street clothes, arrives at his new office for the first time. After removing cobwebs, he struggles awkwardly to move furniture and computers into the previously abandoned room.  
+
+JAMES's supervisor, the statistics department chair, DR. SMITH, greets him in the hallway. Two other junior professors, TUSHAR and JONATHAN, dressed in business casual, encounter James near his office. JONATHAN bumps (hip checks) James while he is carrying a box of books and trying to turn the doorknob of his office door. TUSHAR and JONATHAN laugh and walk away.
+
 
 
 
 ## \uline{ACT TWO}
 
+JAMES'S STATISTICS CLASSROOM, FIRST WEEK OF CLASSES - James is trying to lead a class discussion of data visualization methods. He presents slides on his computer. Students are restless and disinterested. James struggles to keep their attention. 
+
+CAFETERIA - James sits alone at a table in the cafeteria. TUSHAR and JONATHAN sit at a nearby table and make fun of James. They are loud and obnoxious. James overhears them.
+
 
 
 ## \uline{ACT THREE}
 
-
+JAMES'S LIVING ROOM - James returns home after the exhausting first day of classes. He logs onto spotify on his computer and notices a new podcast in his feed. The first episode of "Data science cheats in South Dakota" has just dropped, and, curious, he hits play to listen to it. The voices are electronically disguised to render them unrecognizable. The hosts of the podcast are gossiping about a new statistics professor. James recognizes the details of the story as his own experiences from the past week. 
