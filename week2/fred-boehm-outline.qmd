@@ -1,0 +1,27 @@
+---
+format: 
+    pdf:
+        include-in-header:
+            - text: |
+                \usepackage[normalem]{ulem}
+---
+
+
+
+
+## \uline{COLD OPEN}
+
+\textbf{MAKESHIFT PODCAST STUDIO IN JAMES'S LIVING ROOM} - 
+
+
+## \uline{ACT ONE}
+
+
+
+## \uline{ACT TWO}
+
+
+
+## \uline{ACT THREE}
+
+
